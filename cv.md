@@ -13,8 +13,10 @@ return a * b;
 ```
 ## Work experience:
 Nothing yet.
-## Education and courses:
-JavaScript/Front-end. Stage 0 (in process)
+## Skills and Proficiency:
+Photoshop, Procreate, Adobe Illustrator (in progress)
+## Education and courses: 
+JavaScript/Front-end. Stage 0 (in process), Commercial Illustration (Skillbox)
  ## Language:
 + English - Intermediate/Upper-intermediate (in process)
 + Russian - Native 
